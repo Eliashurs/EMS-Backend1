@@ -29,6 +29,3 @@ Spring Boot käsittelee pyynnöt, kommunikoi tietokannan kanssa ja palauttaa JSO
 
 React näyttää datan taulukossa ja mahdollistaa sen muokkaamisen.
 
-🚀 Käynnistys
-
-Backend:
